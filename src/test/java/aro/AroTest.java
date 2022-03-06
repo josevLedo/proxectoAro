@@ -2,7 +2,7 @@
  * Probas para a clase Aro
  * @author jose
  */
-package circulo;
+package aro;
 
 import aro.Aro;
 
