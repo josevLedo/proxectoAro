@@ -3,6 +3,7 @@ package aro;
 /**
  * Probas de refactorización en NetBeans coa clase Aro
  * @author jose
+ * ultima version 2022_03_06
  */
 public class Aro {
     
