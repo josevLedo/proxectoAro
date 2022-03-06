@@ -1,14 +1,14 @@
-package circulo;
+package aro;
 
 import java.text.DecimalFormat;
 
 /**
- * Pruebas de refactorización en NetBeans con la clase Circulo
+ * Pruebas de refactorización en NetBeans con la clase Aro
  * @author jose
  */
 public class Main {
     public static void main(String[] args) {
-        Circulo circulo = new Circulo(37,43,2.5);
+        Aro circulo = new Aro(37,43,2.5);
         String saida =
                 "A coordenada X é "+circulo.obterX()+
                 "\nA coordenada Y é "+circulo.obterY()+
